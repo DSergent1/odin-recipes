@@ -1,0 +1,28 @@
+.listgyro, .listcurry, .listramen {
+font-style: Arial;
+color: white;
+background-color: black;
+text-align: center
+}
+
+#ingredient-gyro, #ingredient-ramen, #ingredient-curry{
+font-size: 28px;
+text-align: center;
+}
+
+.links {
+background-color: #7FDBFF;
+}
+
+.ramen-link {
+font-style: italic; 
+}
+
+.curry-link, .gyro-link {
+font-style: oblique;
+}
+
+img.images-home {
+height: 200px;
+width: 200px;
+}
